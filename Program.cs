@@ -7,7 +7,7 @@ namespace LogicalPrograms
     {
         public static void Main(string[] args)
         {
-            PrimeNumber.checkPrime();
+            ReverseNumber.ReverseTheNumber();
             
            
         }
