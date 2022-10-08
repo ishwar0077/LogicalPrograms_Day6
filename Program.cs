@@ -7,7 +7,8 @@ namespace LogicalPrograms
     {
         public static void Main(string[] args)
         {
-           FibonaccieSeries.DisplayFibonaccieSeries();
+            PerfectNumber.CheckPerfectNumber();
+            
            
         }
     }
