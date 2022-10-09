@@ -7,9 +7,10 @@ namespace LogicalPrograms
     {
         public static void Main(string[] args)
         {
-            ReverseNumber.ReverseTheNumber();
             
-           
+             CouponNumber.CheckCouponNumber();
+       
+            CouponCodeDemo.CouponNumber();
         }
     }
 }
