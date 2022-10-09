@@ -7,10 +7,8 @@ namespace LogicalPrograms
     {
         public static void Main(string[] args)
         {
+            StopWatch.StopWatchDemo();
             
-             CouponNumber.CheckCouponNumber();
-       
-            CouponCodeDemo.CouponNumber();
         }
     }
 }
